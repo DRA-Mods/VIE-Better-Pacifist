@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/ThingDef[defName="VWE_Gun_Taser" or defName="VWE_Gun_RubberBulletPistol" or 
+      defName="VWE_Gun_DartGun" or 
+      defName="VWE_Gun_TearGasLauncher" or
+      defName="VWE_MeleeWeapon_StunBaton" or
+      defName="VWE_TearGasGrenade" or
+      defName="VFEP_WarcasketGun_TearGasGrenadeLauncher" or
+      defName="AnestheticBlowgun_AnestheticBlowgun" or
+      defName="Gun_AnestheticGun" or
+      defName="Gun_Net"]</xpath>
+    <value>
+      <li Class="BetterPacifists.ModExtensions.NonLethalByDefault"/>
+    </value>
+  </Operation>
+</Patch>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <BetterPacifists.FistsNonLethal>Non-lethal fists</BetterPacifists.FistsNonLethal>
+    <BetterPacifists.FistsNonLethal.Tooltip>Fists count as a non-lethal weapon. They may still provide the negative thoughts if they deal damage above threshold, cause permanent injury, or are used against a downed pawn.</BetterPacifists.FistsNonLethal.Tooltip>
+    <BetterPacifists.UseMaxDamageForNonLethal>Use damage threshold for non-lethal weapons</BetterPacifists.UseMaxDamageForNonLethal>
+    <BetterPacifists.UseMaxDamageForNonLethal.Tooltip>If enabled, using non-lethal weapons can still count as hurting others if they do above the specified damage.</BetterPacifists.UseMaxDamageForNonLethal.Tooltip>
+    <BetterPacifists.MaxDamageForNonLethal>Damage threshold</BetterPacifists.MaxDamageForNonLethal>
+    <BetterPacifists.MaxDamageForNonLethal.Tooltip>If a weapon marked as non-lethal deals more damage than the value specified here, it will count as actually hurting the pawn.</BetterPacifists.MaxDamageForNonLethal.Tooltip>
+    <BetterPacifists.EditNonLethalWeapons>Select non-lethal weapons</BetterPacifists.EditNonLethalWeapons>
+    <BetterPacifists.ResetToDefault>Reset to default</BetterPacifists.ResetToDefault>
+</LanguageData>
